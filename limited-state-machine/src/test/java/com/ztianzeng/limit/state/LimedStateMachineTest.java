@@ -6,7 +6,7 @@ import java.io.UnsupportedEncodingException;
 
 public class LimedStateMachineTest {
     /**
-     *
+     * 状态机测试
      */
     @Test
     public void lexTest() throws UnsupportedEncodingException {
