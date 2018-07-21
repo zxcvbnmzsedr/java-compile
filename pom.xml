@@ -12,6 +12,7 @@
         <module>compile-core</module>
         <module>input-system</module>
         <module>limited-state-machine</module>
+        <module>thomson-construction</module>
     </modules>
     <build>
         <plugins>
